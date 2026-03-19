@@ -60,3 +60,7 @@ services:
         condition: service_healthy
     volumes:
       - ./api:/app
+
+volumes:
+  postgres-data:
+  redis-data:
