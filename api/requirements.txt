@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+asyncpg
+redis[asyncio]
+bcrypt
+python-dotenv
